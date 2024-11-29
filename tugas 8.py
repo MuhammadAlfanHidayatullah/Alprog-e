@@ -1,9 +1,11 @@
               #aritmatika
 x = 24
 y = 90
+
 #penjumlahan
 hasil = x + y
-print ("hasil dari x = y")
+print ("hasil dari x + y = ", hasil)
+
 #pengurangan
 hasil = x - y
 print ("nilai dari x - y = ", hasil)
@@ -18,12 +20,12 @@ print ("hasil dari x * y =", hasil)
 
 #exponen (perpangkatan)
 hasil = x ** y
-print ("nilai dari x eksponen y =", hasil)
+print ("nilai dari x eksponen y = ", hasil)
 
 #Modulus (sisa bagi)
 hasil = x % y
-print ("hasil dari x mod y =", hasil)
+print ("hasil dari x mod y = ", hasil)
 
 #floor division
 hasil = x // y
-print ("hasil dari x FD y =", hasil)
+print ("hasil dari x FD y = ", hasil)
